@@ -10,3 +10,7 @@ def liquidity_score(a):
 
 def riskscore(a):
     return a/100
+
+
+def affordability(a):
+    return a/100
